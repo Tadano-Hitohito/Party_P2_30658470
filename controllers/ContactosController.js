@@ -80,7 +80,7 @@ class ContactosController {
       console.log(contactos);
   
       // Enviar mensaje de confirmacion
-      res.send("beeee el burrroooo sabe mas que tuuuuu.");
+      res.send("el mensaje se ha enviado con exito .");
     }
   }
 
